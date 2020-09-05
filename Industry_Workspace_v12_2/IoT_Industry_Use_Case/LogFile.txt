@@ -1,0 +1,359 @@
+Entering Network Stack
+
+In the initialization function
+Configuring 1 device..
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libIEEE802.11.dll>>fn_NetSim_IEEE802_11_Init
+fn_NetSim_IEEE802_11_Run
+fn_NetSim_IEEE802_11_Trace
+fn_NetSim_IEEE802_11_FreePacket
+fn_NetSim_IEEE802_11_CopyPacket
+fn_NetSim_IEEE802_11_Metrics
+fn_NetSim_IEEE802_11_Finish
+fn_NetSim_IEEE802_11_Configure
+fn_NetSim_IEEE802_11_ConfigPacketTrace
+fn_NetSim_IEEE802_11_WritePacketTrace
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libEthernet.dll>>fn_NetSim_Ethernet_Init
+fn_NetSim_Ethernet_Run
+fn_NetSim_Ethernet_Trace
+fn_NetSim_Ethernet_FreePacket
+fn_NetSim_Ethernet_CopyPacket
+fn_NetSim_Ethernet_Metrics
+fn_NetSim_Ethernet_Finish
+fn_NetSim_Ethernet_Configure
+fn_NetSim_Ethernet_ConfigPacketTrace
+fn_NetSim_Ethernet_WritePacketTrace
+Configuring 2 device..
+Configuring 3 device..
+Configuring 4 device..
+Configuring 5 device..
+Configuring 6 device..
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libIP.dll>>fn_NetSim_IP_Init
+fn_NetSim_IP_Run
+fn_NetSim_IP_Trace
+fn_NetSim_IP_FreePacket
+fn_NetSim_IP_CopyPacket
+fn_NetSim_IP_Metrics
+fn_NetSim_IP_Finish
+fn_NetSim_IP_Configure
+fn_NetSim_IP_ConfigPacketTrace
+fn_NetSim_IP_WritePacketTrace
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libARP.dll>>fn_NetSim_ARP_Init
+fn_NetSim_ARP_Run
+fn_NetSim_ARP_Trace
+fn_NetSim_ARP_FreePacket
+fn_NetSim_ARP_CopyPacket
+fn_NetSim_ARP_Metrics
+fn_NetSim_ARP_Finish
+fn_NetSim_ARP_Configure
+fn_NetSim_ARP_ConfigPacketTrace
+fn_NetSim_ARP_WritePacketTrace
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libRTP.dll>>fn_NetSim_RTP_Init
+fn_NetSim_RTP_Run
+fn_NetSim_RTP_Trace
+fn_NetSim_RTP_FreePacket
+fn_NetSim_RTP_CopyPacket
+fn_NetSim_RTP_Metrics
+fn_NetSim_RTP_Finish
+fn_NetSim_RTP_Configure
+fn_NetSim_RTP_ConfigPacketTrace
+fn_NetSim_RTP_WritePacketTrace
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libTCP.dll>>fn_NetSim_TCP_Init
+fn_NetSim_TCP_Run
+fn_NetSim_TCP_Trace
+fn_NetSim_TCP_FreePacket
+fn_NetSim_TCP_CopyPacket
+fn_NetSim_TCP_Metrics
+fn_NetSim_TCP_Finish
+fn_NetSim_TCP_Configure
+fn_NetSim_TCP_ConfigPacketTrace
+fn_NetSim_TCP_WritePacketTrace
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libUDP.dll>>fn_NetSim_UDP_Init
+fn_NetSim_UDP_Run
+fn_NetSim_UDP_Trace
+fn_NetSim_UDP_FreePacket
+fn_NetSim_UDP_CopyPacket
+fn_NetSim_UDP_Metrics
+fn_NetSim_UDP_Finish
+fn_NetSim_UDP_Configure
+fn_NetSim_UDP_ConfigPacketTrace
+fn_NetSim_UDP_WritePacketTrace
+Configuring 7 device..
+Configuring 8 device..
+Configuring 9 device..
+Configuring 10 device..
+Configuring 11 device..
+Configuring 12 device..
+Configuring 13 device..
+Configuring 14 device..
+Configuring 15 device..
+Configuring 16 device..
+Configuring 17 device..
+Configuring 18 device..
+Configuring 19 device..
+Configuring 20 device..
+Configuring 21 device..
+Configuring 22 device..
+Configuring 23 device..
+Configuring 24 device..
+Configuring 25 device..
+Configuring 26 device..
+Configuring 27 device..
+Configuring 28 device..
+Configuring 29 device..
+Configuring 30 device..
+Configuring 31 device..
+Configuring 32 device..
+Configuring 33 device..
+Configuring 34 device..
+Configuring 35 device..
+Configuring 36 device..
+Configuring 37 device..
+Configuring 38 device..
+Configuring 39 device..
+Configuring 40 device..
+Configuring 41 device..
+Configuring 42 device..
+Configuring 43 device..
+Configuring 44 device..
+Configuring 45 device..
+Configuring 46 device..
+Configuring 47 device..
+Configuring 48 device..
+Configuring 49 device..
+Configuring 50 device..
+Configuring 51 device..
+Configuring 52 device..
+Configuring 53 device..
+Configuring 54 device..
+Configuring 55 device..
+Configuring 56 device..
+Configuring 57 device..
+Configuring 58 device..
+Configuring 59 device..
+Configuring 60 device..
+Configuring 61 device..
+Configuring 62 device..
+Configuring 63 device..
+Configuring 64 device..
+Configuring 65 device..
+Configuring 66 device..
+Configuring 67 device..
+Configuring 68 device..
+Configuring 69 device..
+Configuring 70 device..
+Configuring 71 device..
+Configuring 72 device..
+Configuring 73 device..
+Configuring 74 device..
+Configuring 75 device..
+Configuring 76 device..
+Configuring 77 device..
+Configuring 78 device..
+Configuring 79 device..
+Configuring 80 device..
+Configuring 81 device..
+Configuring 82 device..
+Configuring 83 device..
+Configuring 84 device..
+Configuring 85 device..
+Configuring 86 device..
+Configuring 87 device..
+Configuring 88 device..
+Configuring 89 device..
+Configuring 90 device..
+Configuring 91 device..
+Configuring 92 device..
+Configuring 93 device..
+Configuring 94 device..
+Configuring 95 device..
+Configuring 96 device..
+Configuring 97 device..
+Configuring 98 device..
+Configuring 99 device..
+Configuring 100 device..
+Configuring 101 device..
+Configuring 102 device..
+Configuring 103 device..
+Configuring 104 device..
+Configuring 105 device..
+Configuring 106 device..
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libP2P.dll>>fn_NetSim_P2P_Init
+fn_NetSim_P2P_Run
+fn_NetSim_P2P_Trace
+fn_NetSim_P2P_FreePacket
+fn_NetSim_P2P_CopyPacket
+fn_NetSim_P2P_Metrics
+fn_NetSim_P2P_Finish
+fn_NetSim_P2P_Configure
+fn_NetSim_P2P_ConfigPacketTrace
+fn_NetSim_P2P_WritePacketTrace
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libOSPF.dll>>fn_NetSim_OSPF_Init
+fn_NetSim_OSPF_Run
+fn_NetSim_OSPF_Trace
+fn_NetSim_OSPF_FreePacket
+fn_NetSim_OSPF_CopyPacket
+fn_NetSim_OSPF_Metrics
+fn_NetSim_OSPF_Finish
+fn_NetSim_OSPF_Configure
+fn_NetSim_OSPF_ConfigPacketTrace
+fn_NetSim_OSPF_WritePacketTrace
+Configuring 107 device..
+Configuring 108 device..
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\libApplication.dll>>fn_NetSim_Application_Init
+fn_NetSim_Application_Run
+fn_NetSim_Application_Trace
+fn_NetSim_Application_FreePacket
+fn_NetSim_Application_CopyPacket
+fn_NetSim_Application_Metrics
+fn_NetSim_Application_Finish
+fn_NetSim_Application_Configure
+fn_NetSim_Application_ConfigPacketTrace
+fn_NetSim_Application_WritePacketTrace
+Loading binaries
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\SupportFunction.dll>>fn_NetSim_Packet_AddPacketToBuffer
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\SupportFunction.dll>>fn_NetSim_GetPacketFromBuffer
+C:\Users\Hanuman\Desktop\Org\Industry_Workspace_v12_2\bin\bin_x64\SupportFunction.dll>>fn_NetSim_GetBufferStatus
+Calling TCP init..
+TCP init done.
+Calling IP init..
+Public IP of 6-1 is 11.6.1.1
+Public IP of 7-1 is 11.6.1.1
+Public IP of 8-1 is 11.6.1.1
+Public IP of 9-1 is 11.6.1.1
+Public IP of 10-1 is 11.6.1.1
+Public IP of 11-1 is 11.6.1.1
+Public IP of 12-1 is 11.6.1.1
+Public IP of 13-1 is 11.6.1.1
+Public IP of 14-1 is 11.6.1.1
+Public IP of 15-1 is 11.6.1.1
+Public IP of 16-1 is 11.6.1.1
+Public IP of 17-1 is 11.6.1.1
+Public IP of 18-1 is 11.6.1.1
+Public IP of 19-1 is 11.6.1.1
+Public IP of 20-1 is 11.6.1.1
+Public IP of 21-1 is 11.6.1.1
+Public IP of 22-1 is 11.6.1.1
+Public IP of 23-1 is 11.6.1.1
+Public IP of 24-1 is 11.6.1.1
+Public IP of 25-1 is 11.6.1.1
+Public IP of 26-1 is 11.6.1.1
+Public IP of 27-1 is 11.6.1.1
+Public IP of 28-1 is 11.6.1.1
+Public IP of 29-1 is 11.6.1.1
+Public IP of 30-1 is 11.6.1.1
+Public IP of 31-1 is 11.6.1.1
+Public IP of 32-1 is 11.6.1.1
+Public IP of 33-1 is 11.6.1.1
+Public IP of 34-1 is 11.6.1.1
+Public IP of 35-1 is 11.6.1.1
+Public IP of 36-1 is 11.6.1.1
+Public IP of 37-1 is 11.6.1.1
+Public IP of 38-1 is 11.6.1.1
+Public IP of 39-1 is 11.6.1.1
+Public IP of 40-1 is 11.6.1.1
+Public IP of 41-1 is 11.6.1.1
+Public IP of 42-1 is 11.6.1.1
+Public IP of 43-1 is 11.6.1.1
+Public IP of 44-1 is 11.6.1.1
+Public IP of 45-1 is 11.6.1.1
+Public IP of 46-1 is 11.6.1.1
+Public IP of 47-1 is 11.6.1.1
+Public IP of 48-1 is 11.6.1.1
+Public IP of 49-1 is 11.6.1.1
+Public IP of 50-1 is 11.6.1.1
+Public IP of 51-1 is 11.6.1.1
+Public IP of 52-1 is 11.6.1.1
+Public IP of 53-1 is 11.6.1.1
+Public IP of 54-1 is 11.6.1.1
+Public IP of 55-1 is 11.6.1.1
+Public IP of 56-1 is 11.6.1.1
+Public IP of 57-1 is 11.6.1.1
+Public IP of 58-1 is 11.6.1.1
+Public IP of 59-1 is 11.6.1.1
+Public IP of 60-1 is 11.6.1.1
+Public IP of 61-1 is 11.6.1.1
+Public IP of 62-1 is 11.6.1.1
+Public IP of 63-1 is 11.6.1.1
+Public IP of 64-1 is 11.6.1.1
+Public IP of 65-1 is 11.6.1.1
+Public IP of 66-1 is 11.6.1.1
+Public IP of 67-1 is 11.6.1.1
+Public IP of 68-1 is 11.6.1.1
+Public IP of 69-1 is 11.6.1.1
+Public IP of 70-1 is 11.6.1.1
+Public IP of 71-1 is 11.6.1.1
+Public IP of 72-1 is 11.6.1.1
+Public IP of 73-1 is 11.6.1.1
+Public IP of 74-1 is 11.6.1.1
+Public IP of 75-1 is 11.6.1.1
+Public IP of 76-1 is 11.6.1.1
+Public IP of 77-1 is 11.6.1.1
+Public IP of 78-1 is 11.6.1.1
+Public IP of 79-1 is 11.6.1.1
+Public IP of 80-1 is 11.6.1.1
+Public IP of 81-1 is 11.6.1.1
+Public IP of 82-1 is 11.6.1.1
+Public IP of 83-1 is 11.6.1.1
+Public IP of 84-1 is 11.6.1.1
+Public IP of 85-1 is 11.6.1.1
+Public IP of 86-1 is 11.6.1.1
+Public IP of 87-1 is 11.6.1.1
+Public IP of 88-1 is 11.6.1.1
+Public IP of 89-1 is 11.6.1.1
+Public IP of 90-1 is 11.6.1.1
+Public IP of 91-1 is 11.6.1.1
+Public IP of 92-1 is 11.6.1.1
+Public IP of 93-1 is 11.6.1.1
+Public IP of 94-1 is 11.6.1.1
+Public IP of 95-1 is 11.6.1.1
+Public IP of 96-1 is 11.6.1.1
+Public IP of 97-1 is 11.6.1.1
+Public IP of 98-1 is 11.6.1.1
+Public IP of 99-1 is 11.6.1.1
+Public IP of 100-1 is 11.6.1.1
+Public IP of 101-1 is 11.6.1.1
+Public IP of 102-1 is 11.6.1.1
+Public IP of 103-1 is 11.6.1.1
+Public IP of 104-1 is 11.6.1.1
+Public IP of 105-1 is 11.6.1.1
+Public IP of 108-1 is 11.6.1.2
+IP init done.
+Calling UDP init..
+UDP init done.
+Calling OSPF init..
+OSPF init done.
+Calling IEEE802_11 init..
+IEEE802_11 init done.
+Calling Ethernet init..
+Ethernet init done.
+Calling ARP init..
+ARP init done.
+Calling Application init..
+Application init done.
+Calling P2P init..
+P2P init done.
+Calling RTP init..
+RTP init done.
+Calling TCP metrics...
+Calling IP metrics...
+Calling UDP metrics...
+Calling OSPF metrics...
+Calling IEEE802_11 metrics...
+Calling Ethernet metrics...
+Calling ARP metrics...
+Calling Application metrics...
+Calling P2P metrics...
+Calling RTP metrics...
+Calling TCP finish...
+Calling IP finish...
+Calling UDP finish...
+Calling OSPF finish...
+Calling IEEE802_11 finish...
+Calling Ethernet finish...
+Calling ARP finish...
+Calling Application finish...
+Calling P2P finish...
+Calling RTP finish...
+After free metrics
+After free Network
+After free kernel memory
